@@ -6,6 +6,7 @@ public class Main {
 	// write your code here
         //m1
         //b2 1
+        // b2 2
         //m1 2
         //m1 4
     }
