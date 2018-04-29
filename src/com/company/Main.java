@@ -7,6 +7,8 @@ public class Main {
         //m1
         //b2 1
         // b2 2
+        //b2 1
+        // b2 2
         // b2 3
         // b2 4
         //m1 2
